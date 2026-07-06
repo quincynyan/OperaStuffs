@@ -1,0 +1,7 @@
+a {
+    color: hsl(env(-opera-gx-accent-color-h), env(-opera-gx-accent-color-s), env(-opera-gx-accent-color-l)) !important;
+}
+
+.nH>.nH.g.id>.nH {
+	background: transparent;
+}
